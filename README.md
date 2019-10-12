@@ -1,1 +1,3 @@
-# Tarea-0-INF393
+# Tarea Machine learning
+Cristian Chamorro
+Eduardo Padilla
